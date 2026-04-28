@@ -7,4 +7,3 @@ This repository contains Programming Fundamentals lab tasks, related documents, 
 - PDF lab task submissions
 - DOCX lab task document
 - C++ starter project (`src/main.cpp`)
-- CMake build configuration (`CMakeLists.txt`)
